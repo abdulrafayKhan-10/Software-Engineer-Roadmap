@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/abdulrafayKhan-10/Software-Engineer-Roadmap)](https://github.com/abdulrafayKhan-10/Software-Engineer-Roadmap)
 [![GitHub Forks](https://img.shields.io/github/forks/abdulrafayKhan-10/Software-Engineer-Roadmap)](https://github.com/abdulrafayKhan-10/Software-Engineer-Roadmap)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/world-of-tech-pvt-ltd)](https://www.linkedin.com/company/world-of-tech-pvt-ltd)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/abdul-rafay-khan-88aa0b24a)](https://linkedin.com/in/abdul-rafay-khan-88aa0b24a)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abdulrafaykhan-10.Software-Engineer-Roadmap)
 
 </div>
