@@ -5,7 +5,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/abdulrafayKhan-10/Software-Engineer-Roadmap)](https://github.com/abdulrafayKhan-10/Software-Engineer-Roadmap)
 [![GitHub Forks](https://img.shields.io/github/forks/abdulrafayKhan-10/Software-Engineer-Roadmap)](https://github.com/abdulrafayKhan-10/Software-Engineer-Roadmap)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/world-of-tech-pvt-ltd)](https://www.linkedin.com/company/world-of-tech-pvt-ltd)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abdulrafayKhan-10.Software-Engineer-Roadmap)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abdulrafaykhan-10.Software-Engineer-Roadmap)
 
 </div>
 
@@ -128,7 +128,7 @@ Welcome to software engineering! As a software engineer, you'll be responsible f
 ## Building a Portfolio and Networking
 
 ### Portfolio Tips
-1. **GitHub Profile:** Showcase your projects on GitHub. Follow me at [abdulrafaykhan-10](https://github.com/abdulrafayKhan-10).
+1. **GitHub Profile:** Showcase your projects on GitHub. Follow me at [abdulrafaykhan-10](https://github.com/abdulrafaykhan-10).
 2. **Personal Website:** Create a website to highlight your skills and projects.
 3. **Project Documentation:** Clearly explain the technologies used, challenges faced, and solutions implemented.
 4. **Code Quality:** Write clean, well-documented code.
