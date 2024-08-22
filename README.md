@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/abdulrafayKhan-10/Software-Engineer-Roadmap/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).gif)
+![Software Engineer Roadmap](https://github.com/abdulrafayKhan-10/Software-Engineer-Roadmap/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).gif)
 
 <div align="center">
 
